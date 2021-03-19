@@ -7,7 +7,7 @@ chmod u+x funny.sh
 then 
 
 
-For Task 1
+For Qs 1
 
 Test case:
 
@@ -17,7 +17,7 @@ execute "./older.sh foo goo hoo"
 
 outcome: "foo"
 
-For Task 2
+For Qs 2
 
 Test case 1:
 ./funny.sh
